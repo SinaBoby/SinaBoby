@@ -64,13 +64,14 @@ My Hobbies are Traveling , Skiing , Biking and digital markets .
 
 ---
 
-<!-- Actual text -->
-
-
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/sinagholipour/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 <a href="https://instagram.com/sinaboby"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
+
+---
+
+![Profile views](https://gpvc.arturio.dev/[SinaBoby])
 
 
 
