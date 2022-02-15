@@ -1,6 +1,6 @@
-<p align="center">
+<h2 align="center">
 ##SinaBoby :sunglasses: Full Stack Web Developer :man_technologist:
-</p>
+</h2>
 
 #     <img src="https://github.com/SinaBoby/SinaBoby.github.io/blob/main/globe.gif?raw=true" width="50px">    Hello World!                <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">
 
