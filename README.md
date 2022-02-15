@@ -4,7 +4,8 @@
 
 ---
 
-I'm a Web Developing Student At @HackYourFuture Coding School . always open to explore new technologies and collaborate in projects !
+I'm a Web Developing Student At @HackYourFuture Coding School . always open to explore new technologies and collaborate in projects.
+Codding for me is a passion, way of thinking and creating.
 My Hobbies are Traveling , Skiing , Biking and digital markets .
 
 ---
@@ -42,6 +43,8 @@ My Hobbies are Traveling , Skiing , Biking and digital markets .
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
 ---
+## 📈 GitHub Stats
+
 [![Sina's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinaboby&show_icons=true&theme=highcontrast)](https://github.com/sinaboby/)
 
 <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
