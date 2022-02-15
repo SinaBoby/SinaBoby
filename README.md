@@ -71,7 +71,7 @@ My Hobbies are Traveling , Skiing , Biking and digital markets .
 
 ---
 
-![Profile views](https://gpvc.arturio.dev/[SinaBoby])
+![Profile views](https://gpvc.arturio.dev/SinaBoby)
 
 
 
