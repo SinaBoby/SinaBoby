@@ -1,4 +1,4 @@
-<p align="center"
+<p align="center">
 ##SinaBoby :sunglasses: Full Stack Web Developer :man_technologist:
 </p>
 
