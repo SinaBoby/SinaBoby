@@ -7,8 +7,8 @@ SinaBoby :sunglasses: Full Stack Web Developer :man_technologist:
 ---
 
 I'm a Web Developing Student At @HackYourFuture Coding School . always open to explore new technologies and collaborate in projects.
-Codding for me is a passion, way of thinking and creating.
-My Hobbies are Traveling , Skiing , Biking and digital markets .
+Coding for me is a passion, way of thinking and creating.
+My hobbies are Traveling , Skiing , Biking and digital markets .
 
 ---
 
