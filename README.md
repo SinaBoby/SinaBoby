@@ -58,7 +58,7 @@ My hobbies are Traveling , Skiing , Biking and digital markets .
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sinaboby&layout=compact)](https://github.com/sinaboby/)
 
 ---
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sinaboby&repo=CryptoTrackerApp)](https://github.com/SinaBoby/CryptoTrackerApp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sinaboby&repo=browser-quiz-project-starter)](https://github.com/SinaBoby/browser-quiz-project-starter)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sinaboby&repo=navbar)](https://github.com/SinaBoby/navbar)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sinaboby&repo=patreonResponsive)](https://github.com/SinaBoby/patreonResponsive)
